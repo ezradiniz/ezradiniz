@@ -1,3 +1,3 @@
-**Hi, I'm Esdras**
+**Hi there 👋**
 
-I'm a software engineer, currently living in Belo Horizonte, 🇧🇷.
+I'm Esdras! I'm a software engineer, currently living in Belo Horizonte, 🇧🇷.
